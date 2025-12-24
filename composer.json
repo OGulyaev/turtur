@@ -48,7 +48,10 @@
     "wpackagist-plugin/duplicate-post": "^4.5",
     "wpackagist-plugin/wp-cfm": "^1.7",
     "wpackagist-plugin/elementor": "^3.33",
-    "wpackagist-theme/astra": "^4.11"
+    "wpackagist-theme/astra": "^4.11",
+    "wpackagist-plugin/astra-sites": "^4.4",
+    "wpackagist-plugin/woocommerce": "^10.4",
+    "wpackagist-plugin/dokan-lite": "^4.2"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
